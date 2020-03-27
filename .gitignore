@@ -1,0 +1,8 @@
+*.jpg
+*.gif
+/build
+/dist
+*.pyc
+/venv
+/*.mp4
+/.vscode
